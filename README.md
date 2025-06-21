@@ -1,4 +1,4 @@
-# house-price-prediction
+# House-price-prediction
 # 🏠 House Price Prediction
 
 This project applies data preprocessing, feature engineering, and machine learning techniques to predict house prices using the Ames Housing dataset from Kaggle.
